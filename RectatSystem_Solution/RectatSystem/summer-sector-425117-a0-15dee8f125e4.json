@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "summer-sector-425117-a0",
+  "private_key_id": "15dee8f125e4ebb67db5648305916ea64b7090ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx3dfrYoli9jf5\nMnTe4bg35iwaTbCrKHaAZKgcWb843BscV6ZFvMcvEbsEudbwHX2GmMyj1TH4pXXc\nKSzafu10TXc/HzPPHicuApwfiDFOvTJT6VO0hhf2O0CV5TRyRQN+vbg0dYNaGaaF\nDjh7wbli8Fv15DB4WQ9jUsFnq39IlGZ4BqrFzLKz65y2XPo5UOQkDaaTyDAJyU1O\nrDfJDCvTE30WQgeD1s3Kfbkt0NWmn+BmODVJy5QbKdkDTl8sQNBkArLWvfQrdeyz\nxctUdG4IJ292w5e4IRHI36Brl5Mv7cSWQB3ULw4SbBbxCHj2bugFyfm0tHIJip2A\nfKkPlQ6LAgMBAAECggEAPWYGJgQSxu2VrtkjDNlAPVOgP8g3xy2lknasrXSxlNAu\nL592Dza2T2JAe8YnEyYq8a6HXbq3kEyVndU83YPZNj+TfV+pA8M15SUTfbMGylZ3\nLA4sTfHIDcCwb836R8PZDAQztTAnko+uMtoQ12+tLiEorX4C2Vhs/m1PxBioTIYS\nb4vlvi+LBkqvAItJW4cj+QBydFIJzgrTPXw+ql6tkg/NcW3tBShqj6OYe57WwYbX\nvGxyHm9Ae0MGkW1FPHEYmGyfrSwXxhUbAHBNhwXXw0D1IEBiNXvnVxIfLH5s8P9M\n5UsmqWJbvI2NJQjdQcXpGD5oQppn2OfnqPgR5eeI0QKBgQDYNOgv2OLo1NEQyKpi\nfx737sD1Z4UbZbimPRwevGJ0e2nFkBIQdJrdEanloPd/FZjNteOg8Nwox18ndx7r\n6FLNOFSJmqUg59BTPWW1PzsPbAwzNc6wexEYR8ML1GGSnxpUaFwD7VdzywfHdcag\nYgpMj/MekNVLvfOKBepkkenFwwKBgQDSmnOYYTzVbUqf5gWs3hhDive3N93Y1dkT\nsqmAGLjKJwXeNe5CgHTOVRCGCKFR8gskzXSb1B25lRcW17LDk+JeLbzB6VLamFBd\n9QfsoQcvl0/FV/121smxhiolPC3N96xu9jRx182ZF3obvQxAIr7O1TRDYdpNIMMf\nX41QC3PfmQKBgCx8rm3x9bas25vVfmGoAIpJgUC9nUDm7FigaGHWp3eKUVhKbb0f\nESJ92PSb63El03w4ee8KwHJPm7+2HhGyix8ZASQTQvkDWfVWw8/Ig/GHbPc4kh/0\nIq9ZTMPpXm5Z+IP3uT9BneYAl8gt7sHfinj4gbD/YjQkkLEMyI8LCwwbAoGBAINS\nsDYanDZxuhDO/Eb5DqQ/aYwkF//4CS6RP8SSpdfYUX5onrN1KmDnBjCt/Pn+Nhiy\nzL3GnOp2HzmtMtllw8f6OTOpbHLGe4a7Hj/dgX+ZmLJz1ade89Hw2SLyzZUblbhz\naex7JscJrqjRT2xGvjh3FenWgKuLfGB50sJRAeYxAoGBAL4ci2dT04fIDkMfhI2U\nbq828hSifkkA8GU1490QZMTAZpgo/Cv1aFJkBGxS8EgGiD4Px46N+THVoNmB2D9J\ne7LW7+bnpWp5zTxHzVqe2B2acX7vIW3sAzT4KE+f1soFjjopIPCUGPWQFzFlV/3E\ne8Ou0ROHNxdHkAx5tn9ivExv\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@summer-sector-425117-a0.iam.gserviceaccount.com",
+  "client_id": "114013086569108898542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40summer-sector-425117-a0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
